@@ -1,0 +1,55 @@
+#app {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 2rem;
+  font-weight: normal;
+}
+
+input[type=text] {
+  padding: 5px 5px;
+  height: auto;
+  width: 250px;
+  border-radius: 4px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  box-sizing: border-box;
+}
+
+input[type=radio] {
+  height: auto;
+  width: auto;
+  font-size: 12px;
+  margin: 5px 5px 0px 10px;
+}
+
+.button, .button1, .button2 {
+  background-color: #FFA500;
+  color: white;
+  text-align: center;
+  font-size: 12px;
+  border: 1px solid #FFA500;
+  padding: 5px 5px;
+  height: 30px;
+  width: 250px;
+  border-radius: 4px;
+  margin-top: 10px;
+  margin-right: 10px;
+  cursor: pointer;
+}
+
+.button1 {
+  width: 125px;
+}
+
+.button2 {
+  background-color: white;
+  color: #FFA500;
+  width: 115px;
+}
+
+button[disabled]{
+  border: 1px solid #999999;
+  background-color: #cccccc;
+  color: #666666;
+  cursor: default;
+}
