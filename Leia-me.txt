@@ -1,0 +1,55 @@
+1. Conceitos
+1.1. Back-end e Front-end
+1.2. Rest Full
+1.3. Json
+1.3.1. body-parser
+1.4. APIs e Endpoints
+1.4.1. Express
+1.4.2. cors
+
+https://www.json.org/json-en.html
+https://expressjs.com/pt-br/
+https://www.npmjs.com/package/body-parser
+https://www.npmjs.com/package/cors
+
+2. Programa de Teste com NodeJS
+2.1. Operações de Javascript
+2.2. Operações de Acessos ao MySql
+2.3. Operações de Criação de Endpoints
+2.4. Criar uma API com GET e Acesso MySQL com Query
+2.4.1. Usando Postman
+
+https://www.npmjs.com/package/mysql
+
+3. VueJs
+3.1. Criar App Simples VueJs
+3.2. Conceito de Components
+3.3. Conceito de Webpack
+3.4. Conceito de Vite
+3.4. Conceito de Fetch
+3.5. Conceito de Axios
+3.6. Conceito de Vue Router
+3.7. Conceito de Vuex
+
+https://vuejs.org/
+https://router.vuejs.org/
+https://vuex.vuejs.org/
+https://webpack.js.org/
+https://vitejs.dev/
+https://axios-http.com/
+https://vueuse.org/core/useFetch/#usefetch
+
+4. Aplicativo Desafio
+4.1. Colocar o App em funcionamento
+4.2. Alterar o Back-end do App Desafio para ao invés de gravar na sessão, gravar no MySql
+4.2.1. Utilizar o Back-end com Gerenciador NodeJS
+
+https://pm2.keymetrics.io/
+
+4.3. Alterar o Front-end do App Desafio para ao invés de usar Fetch nativo usar Axios
+
+5. Curso Udemy
+
+Curso Web Moderno Completo com JavaScript + Projetos
+
+https://www.udemy.com/
